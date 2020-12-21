@@ -1,0 +1,1584 @@
+fileFormatVersion: 2
+guid: 118520d426ae547aaadf4139d2ced74f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 369529620913433077
+    second: stormtrooper_sprite_0
+  - first:
+      213: 2758694869797898690
+    second: stormtrooper_sprite_1
+  - first:
+      213: -7712133409131762351
+    second: stormtrooper_sprite_2
+  - first:
+      213: 315539830044314334
+    second: stormtrooper_sprite_3
+  - first:
+      213: -1667596086892471527
+    second: stormtrooper_sprite_4
+  - first:
+      213: -5884621555658000176
+    second: stormtrooper_sprite_5
+  - first:
+      213: 1579605892979673787
+    second: stormtrooper_sprite_6
+  - first:
+      213: 3275337593275906753
+    second: stormtrooper_sprite_7
+  - first:
+      213: -161381492064733815
+    second: stormtrooper_sprite_8
+  - first:
+      213: -1767064291391890988
+    second: stormtrooper_sprite_9
+  - first:
+      213: -3793629712060904591
+    second: stormtrooper_sprite_10
+  - first:
+      213: 4177698385344351663
+    second: stormtrooper_sprite_11
+  - first:
+      213: 8308907841367786046
+    second: stormtrooper_sprite_12
+  - first:
+      213: -8507775965877780240
+    second: stormtrooper_sprite_13
+  - first:
+      213: 3315347213711721539
+    second: stormtrooper_sprite_14
+  - first:
+      213: 2595282474216581826
+    second: stormtrooper_sprite_15
+  - first:
+      213: 855582562798588319
+    second: stormtrooper_sprite_16
+  - first:
+      213: 938360530299299685
+    second: stormtrooper_sprite_17
+  - first:
+      213: 8111134769695896950
+    second: stormtrooper_sprite_18
+  - first:
+      213: -9111790716478871067
+    second: stormtrooper_sprite_19
+  - first:
+      213: 7988287549628542076
+    second: stormtrooper_sprite_20
+  - first:
+      213: 1823703732992040787
+    second: stormtrooper_sprite_21
+  - first:
+      213: 1724572867011529904
+    second: stormtrooper_sprite_22
+  - first:
+      213: 2404272750270563322
+    second: stormtrooper_sprite_23
+  - first:
+      213: 5488911335201254870
+    second: stormtrooper_sprite_24
+  - first:
+      213: -445144300090476104
+    second: stormtrooper_sprite_25
+  - first:
+      213: 9166894365343834620
+    second: stormtrooper_sprite_26
+  - first:
+      213: -6384223063692616742
+    second: stormtrooper_sprite_27
+  - first:
+      213: -7257425583929702653
+    second: stormtrooper_sprite_28
+  - first:
+      213: -916575414427379150
+    second: stormtrooper_sprite_29
+  - first:
+      213: 7125866607354324224
+    second: stormtrooper_sprite_30
+  - first:
+      213: 7777649525801214903
+    second: stormtrooper_sprite_31
+  - first:
+      213: 3038618201111117299
+    second: stormtrooper_sprite_32
+  - first:
+      213: 5302101979451572213
+    second: stormtrooper_sprite_33
+  - first:
+      213: 5576427238152853700
+    second: stormtrooper_sprite_34
+  - first:
+      213: 4139780093527037822
+    second: stormtrooper_sprite_35
+  - first:
+      213: 3589669403814753939
+    second: stormtrooper_sprite_36
+  - first:
+      213: 8546079763184821873
+    second: stormtrooper_sprite_37
+  - first:
+      213: -8489758894055406235
+    second: stormtrooper_sprite_38
+  - first:
+      213: 6960532624477778434
+    second: stormtrooper_sprite_39
+  - first:
+      213: 9175448520559566524
+    second: stormtrooper_sprite_40
+  - first:
+      213: 4517106090101461097
+    second: stormtrooper_sprite_41
+  - first:
+      213: 4521722449581086313
+    second: stormtrooper_sprite_42
+  - first:
+      213: -6033096434866224287
+    second: stormtrooper_sprite_43
+  - first:
+      213: -6775496297090770283
+    second: stormtrooper_sprite_44
+  - first:
+      213: -4676823793393820130
+    second: stormtrooper_sprite_45
+  - first:
+      213: -6541884265489178436
+    second: stormtrooper_sprite_46
+  - first:
+      213: -1720701152313241851
+    second: stormtrooper_sprite_47
+  - first:
+      213: -7806037610076097811
+    second: stormtrooper_sprite_48
+  - first:
+      213: 645067517975985850
+    second: stormtrooper_sprite_49
+  - first:
+      213: -831278143189314190
+    second: stormtrooper_sprite_50
+  - first:
+      213: -7728597598737221057
+    second: stormtrooper_sprite_51
+  - first:
+      213: 7788819938366888243
+    second: stormtrooper_sprite_52
+  - first:
+      213: -2911064354758111165
+    second: stormtrooper_sprite_53
+  - first:
+      213: 941332537544658946
+    second: stormtrooper_sprite_54
+  - first:
+      213: 7321402301399732213
+    second: stormtrooper_sprite_55
+  - first:
+      213: -4818230994618167979
+    second: stormtrooper_sprite_56
+  - first:
+      213: 3794182957251248416
+    second: stormtrooper_sprite_57
+  - first:
+      213: -8208717556109079348
+    second: stormtrooper_sprite_58
+  - first:
+      213: -2231017832021469964
+    second: stormtrooper_sprite_59
+  - first:
+      213: -1669140655930150284
+    second: stormtrooper_sprite_60
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stormtrooper_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 717
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9a78c7b35d02500800000000000000
+      internalID: 369529620913433077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 717
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c90ffd2e5ad84620800000000000000
+      internalID: 2758694869797898690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 717
+        width: 44
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d6748668ff8f490800000000000000
+      internalID: -7712133409131762351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 713
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda474abdc5016400800000000000000
+      internalID: 315539830044314334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 713
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b51fbb1328bd8e0800000000000000
+      internalID: -1667596086892471527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 713
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8f5698fdf955ea0800000000000000
+      internalID: -5884621555658000176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 713
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbaca28c033ebe510800000000000000
+      internalID: 1579605892979673787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 653
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca71b60036547d20800000000000000
+      internalID: 3275337593275906753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 653
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985b8245368a2cdf0800000000000000
+      internalID: -161381492064733815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 653
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d91f48a3602a77e0800000000000000
+      internalID: -1767064291391890988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 653
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b0e3b50e15a5bc0800000000000000
+      internalID: -3793629712060904591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 653
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad4c2d0c8a2af930800000000000000
+      internalID: 4177698385344351663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 653
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e324f24c8ab2f4370800000000000000
+      internalID: 8308907841367786046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 593
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0cf3dc5de4ee980800000000000000
+      internalID: -8507775965877780240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 593
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3444e54b9ba720e20800000000000000
+      internalID: 3315347213711721539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 593
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cae97fe8ab440420800000000000000
+      internalID: 2595282474216581826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 530
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91d0abcec3afdb00800000000000000
+      internalID: 855582562798588319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 530
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567acbf3ee9b50d00800000000000000
+      internalID: 938360530299299685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 456
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6753b01391a809070800000000000000
+      internalID: 8111134769695896950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 456
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e92394ae9a6c8180800000000000000
+      internalID: -9111790716478871067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 464
+        width: 54
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ce84fd3391cde60800000000000000
+      internalID: 7988287549628542076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 456
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f5b8cf1e81f4910800000000000000
+      internalID: 1823703732992040787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 465
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bccf77a2e9eee710800000000000000
+      internalID: 1724572867011529904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 464
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af34707f351bd5120800000000000000
+      internalID: 2404272750270563322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 456
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd294227c78c2c40800000000000000
+      internalID: 5488911335201254870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 456
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b931571e9782d9f0800000000000000
+      internalID: -445144300090476104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 456
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf169d36bd9573f70800000000000000
+      internalID: 9166894365343834620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 413
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbdeb9d2fea667a0800000000000000
+      internalID: -6384223063692616742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 415
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307c90602e1784b90800000000000000
+      internalID: -7257425583929702653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 415
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a133d448ba743f0800000000000000
+      internalID: -916575414427379150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 415
+        width: 59
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0052c28cce924e260800000000000000
+      internalID: 7125866607354324224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 415
+        width: 59
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3edd43903cfeb60800000000000000
+      internalID: 7777649525801214903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 415
+        width: 60
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdb34597275b2a20800000000000000
+      internalID: 3038618201111117299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 356
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff3b1898a9d49940800000000000000
+      internalID: 5302101979451572213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 356
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8d9e52703736d40800000000000000
+      internalID: 5576427238152853700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_35
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 356
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7799e2cf04737930800000000000000
+      internalID: 4139780093527037822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_36
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 356
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396777bcd4111d130800000000000000
+      internalID: 3589669403814753939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_37
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 356
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17629caf346c99670800000000000000
+      internalID: 8546079763184821873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_38
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 280
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5654d1b34415e2a80800000000000000
+      internalID: -8489758894055406235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_39
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 280
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202f3812b87c89060800000000000000
+      internalID: 6960532624477778434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_40
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 280
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe16dad0ddb55f70800000000000000
+      internalID: 9175448520559566524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_41
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 280
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96050496e0cffae30800000000000000
+      internalID: 4517106090101461097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_42
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 280
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966903c5c9260ce30800000000000000
+      internalID: 4521722449581086313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_43
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 280
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1638f18d1c2264ca0800000000000000
+      internalID: -6033096434866224287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_44
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 280
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a1ee2140a98f1a0800000000000000
+      internalID: -6775496297090770283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_45
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 210
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e9aade985981fb0800000000000000
+      internalID: -4676823793393820130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_46
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 210
+        width: 44
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0ecc1cbee8635a0800000000000000
+      internalID: -6541884265489178436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_47
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 210
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f83cb2b67de18e0800000000000000
+      internalID: -1720701152313241851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_48
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 210
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2331cd6226ba390800000000000000
+      internalID: -7806037610076097811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_49
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 210
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abef9196d7db3f800800000000000000
+      internalID: 645067517975985850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_50
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 210
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27597addee4b674f0800000000000000
+      internalID: -831278143189314190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 146
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ab45b8e618eb490800000000000000
+      internalID: -7728597598737221057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_52
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 146
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33996dd8772771c60800000000000000
+      internalID: 7788819938366888243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_53
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 156
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34057509462d997d0800000000000000
+      internalID: -2911064354758111165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_54
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 146
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200dddb94f8401d00800000000000000
+      internalID: 941332537544658946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_55
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 146
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff88a84a98da9560800000000000000
+      internalID: 7321402301399732213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_56
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 146
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dc1004074322db0800000000000000
+      internalID: -4818230994618167979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_57
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 82
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0214dc31c45a7a430800000000000000
+      internalID: 3794182957251248416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_58
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 92
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc0b96dfd6c41e80800000000000000
+      internalID: -8208717556109079348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_59
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 82
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f45cca2a15d901e0800000000000000
+      internalID: -2231017832021469964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stormtrooper_sprite_60
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 82
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472fe1bba6506d8e0800000000000000
+      internalID: -1669140655930150284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

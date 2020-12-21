@@ -8,6 +8,9 @@ public class PlayerMovement : MonoBehaviour
 	public CharacterController2D controller;
 	public float runSpeed = 40f;
 	public Animator animator;
+	public GameObject deathEffect;
+
+	public int health = 200;
 
 	float horizontalMove = 0f;
 	bool jump = false;
@@ -23,6 +26,7 @@ public class PlayerMovement : MonoBehaviour
 		{
 			jump = true;
 			animator.SetBool("Jumping", true);
+			animator.SetBool("HasJumped", true);
 		}
 
 		if (Input.GetButton("Jump")) {
@@ -60,10 +64,27 @@ public class PlayerMovement : MonoBehaviour
 		animator.SetBool("Crouching", crouchStatus);
 	}
 
-    // Update is called once per frame
-    void FixedUpdate()
-    {
-    	controller.Move(horizontalMove * Time.fixedDeltaTime, crouch, jump, fly);
-    	jump = false;
-    }
+	// Update is called once per frame
+	void FixedUpdate()
+	{
+		controller.Move(horizontalMove * Time.fixedDeltaTime, crouch, jump, fly);
+		jump = false;
+	}
+
+	public void TakeDamage(int damage)
+	{
+			health -= damage;
+
+			if (health <= 0) {
+					Die();
+			}
+
+			Debug.Log(health);
+	}
+
+	void Die()
+	{
+			Instantiate(deathEffect, transform.position, Quaternion.identity);
+			Destroy(gameObject);
+	}
 }
