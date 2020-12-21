@@ -19,6 +19,8 @@ public class Blaster : MonoBehaviour
 
     void Shoot ()
     {
-        Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
+        if (Input.GetAxisRaw("Horizontal") == 0) {
+            Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
+        }
     }
 }

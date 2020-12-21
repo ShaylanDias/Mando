@@ -6,7 +6,7 @@ public class BasicEnemyBullet : MonoBehaviour
 {
 
     public int damage = 20;
-    float moveSpeed = 7f;
+    public float moveSpeed = 10f;
 
     public Rigidbody2D rb;
 
@@ -31,9 +31,10 @@ public class BasicEnemyBullet : MonoBehaviour
     {
         if (col.gameObject.name.Equals("Player")) {
             col.GetComponent<PlayerMovement>().TakeDamage(damage);
-        } else if (col.gameObject.name.Equals("BasicEnemy")) {
+        } else if (col.gameObject.name.Equals("BasicEnemy(Clone)") || col.gameObject.name.Equals("Laser(Clone)")) {
             return;
         }
+        Debug.Log(col.gameObject.name);
         Destroy(gameObject);
     }
 }

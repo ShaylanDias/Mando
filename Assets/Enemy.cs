@@ -43,7 +43,9 @@ public class Enemy : MonoBehaviour
     }
 
     void CheckAndFire() {
-        if (Time.time > nextFire) {
+        float distance = Vector3.Distance(player.transform.position, gameObject.transform.position);
+
+        if (distance < 10f && Time.time > nextFire) {
             animator.Play("BasicEnemy_Shoot");
             Instantiate(bullet, firePoint.position, firePoint.rotation);
             nextFire = Time.time + fireRate;
