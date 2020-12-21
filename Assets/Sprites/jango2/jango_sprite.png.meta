@@ -1,0 +1,1632 @@
+fileFormatVersion: 2
+guid: 489f7d166a6174276be0eb150617ed0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8472727349771031290
+    second: jango_sprite_0
+  - first:
+      213: 7256679779212611493
+    second: jango_sprite_1
+  - first:
+      213: 2312361898397578748
+    second: jango_sprite_2
+  - first:
+      213: -942789129114924266
+    second: jango_sprite_3
+  - first:
+      213: -3673240196293747824
+    second: jango_sprite_4
+  - first:
+      213: 5816744342990165632
+    second: jango_sprite_5
+  - first:
+      213: 640776208631050057
+    second: jango_sprite_6
+  - first:
+      213: -4674659720182973640
+    second: jango_sprite_7
+  - first:
+      213: -7275790879755698780
+    second: jango_sprite_8
+  - first:
+      213: -2051101064296121012
+    second: jango_sprite_9
+  - first:
+      213: 5609583129545278437
+    second: jango_sprite_10
+  - first:
+      213: 6293340927086363086
+    second: jango_sprite_11
+  - first:
+      213: -5009732648994179249
+    second: jango_sprite_12
+  - first:
+      213: 7555763047122290257
+    second: jango_sprite_13
+  - first:
+      213: 4915871044464560712
+    second: jango_sprite_14
+  - first:
+      213: 3754454146848783414
+    second: jango_sprite_15
+  - first:
+      213: 1509537662757512206
+    second: jango_sprite_16
+  - first:
+      213: 1953384380489348657
+    second: jango_sprite_17
+  - first:
+      213: -2521136398410542964
+    second: jango_sprite_18
+  - first:
+      213: -9206086430871197297
+    second: jango_sprite_19
+  - first:
+      213: 5084500952351879242
+    second: jango_sprite_20
+  - first:
+      213: -7108457564121376866
+    second: jango_sprite_21
+  - first:
+      213: -2561455448834093101
+    second: jango_sprite_22
+  - first:
+      213: -1461856039314988827
+    second: jango_sprite_23
+  - first:
+      213: 4818886396512799202
+    second: jango_sprite_24
+  - first:
+      213: -247721224948258918
+    second: jango_sprite_25
+  - first:
+      213: 6397420883426516661
+    second: jango_sprite_26
+  - first:
+      213: -5579235939982827651
+    second: jango_sprite_27
+  - first:
+      213: -4183258155990779067
+    second: jango_sprite_28
+  - first:
+      213: 6337975276562659697
+    second: jango_sprite_29
+  - first:
+      213: -953296059465753281
+    second: jango_sprite_30
+  - first:
+      213: 8500228699853465147
+    second: jango_sprite_31
+  - first:
+      213: 6770386834744797733
+    second: jango_sprite_32
+  - first:
+      213: -7224312837153619691
+    second: jango_sprite_33
+  - first:
+      213: 6834596891760440959
+    second: jango_sprite_34
+  - first:
+      213: 513215122395087195
+    second: jango_sprite_35
+  - first:
+      213: 7877303096403194564
+    second: jango_sprite_36
+  - first:
+      213: 3021787705714796422
+    second: jango_sprite_37
+  - first:
+      213: -1021184919807896988
+    second: jango_sprite_38
+  - first:
+      213: 4389776855820051329
+    second: jango_sprite_39
+  - first:
+      213: 251644973736246129
+    second: jango_sprite_40
+  - first:
+      213: 4738077754012730951
+    second: jango_sprite_41
+  - first:
+      213: -3068004712358588497
+    second: jango_sprite_42
+  - first:
+      213: -6505285134666063971
+    second: jango_sprite_43
+  - first:
+      213: 2093282140680648367
+    second: jango_sprite_44
+  - first:
+      213: -3896725561919083848
+    second: jango_sprite_45
+  - first:
+      213: 9051721652633745923
+    second: jango_sprite_46
+  - first:
+      213: -68795532566536325
+    second: jango_sprite_47
+  - first:
+      213: -8466554005387414179
+    second: jango_sprite_48
+  - first:
+      213: 5212643267255694306
+    second: jango_sprite_49
+  - first:
+      213: -1681364047438293656
+    second: jango_sprite_50
+  - first:
+      213: -8276965929376525492
+    second: jango_sprite_51
+  - first:
+      213: -1568510305941490116
+    second: jango_sprite_52
+  - first:
+      213: 4882488892049562484
+    second: jango_sprite_53
+  - first:
+      213: -6571162671094979744
+    second: jango_sprite_54
+  - first:
+      213: 3518922190788717669
+    second: jango_sprite_55
+  - first:
+      213: 4807852647866100087
+    second: jango_sprite_56
+  - first:
+      213: -4452157924319847140
+    second: jango_sprite_57
+  - first:
+      213: 331873734575957088
+    second: jango_sprite_58
+  - first:
+      213: -1612508881433059895
+    second: jango_sprite_59
+  - first:
+      213: 5209482280837445472
+    second: jango_sprite_60
+  - first:
+      213: 7453842701462284470
+    second: jango_sprite_61
+  - first:
+      213: -5188470774173074158
+    second: jango_sprite_62
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jango_sprite_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 231
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2d6d952ac259570800000000000000
+      internalID: 8472727349771031290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 231
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af4ab8cfc7e4b460800000000000000
+      internalID: 7256679779212611493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 231
+        width: 44
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5b22a25e8271020800000000000000
+      internalID: 2312361898397578748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 280
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b410d384a8ae2f0800000000000000
+      internalID: -942789129114924266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 281
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b993dc087060dc0800000000000000
+      internalID: -3673240196293747824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 289
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0861139592a39b050800000000000000
+      internalID: 5816744342990165632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 231
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fa9f7119e74e800800000000000000
+      internalID: 640776208631050057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_7
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 231
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bbaac70c5402fb0800000000000000
+      internalID: -4674659720182973640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_8
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 231
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad72206eb2370b90800000000000000
+      internalID: -7275790879755698780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_9
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 231
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d343003760983e0800000000000000
+      internalID: -2051101064296121012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_10
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 231
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3029ea22e39dd40800000000000000
+      internalID: 5609583129545278437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_11
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 231
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec10969ca30765750800000000000000
+      internalID: 6293340927086363086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 284
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47760dc2bad97ab0800000000000000
+      internalID: -5009732648994179249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_13
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 284
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1564fbe85767bd860800000000000000
+      internalID: 7555763047122290257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_14
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 284
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a40f66baea83440800000000000000
+      internalID: 4915871044464560712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_15
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 284
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cf96497208a1430800000000000000
+      internalID: 3754454146848783414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_16
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 276
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e042cb3a184f2f410800000000000000
+      internalID: 1509537662757512206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 232
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1363ddc9eb0db1b10800000000000000
+      internalID: 1953384380489348657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_18
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 232
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c809e6e9dcf130dd0800000000000000
+      internalID: -2521136398410542964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_19
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 232
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89e064ca296d3080800000000000000
+      internalID: -9206086430871197297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 158
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40b1156da6cf8640800000000000000
+      internalID: 5084500952351879242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 158
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e975b95f18fa95d90800000000000000
+      internalID: -7108457564121376866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_22
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 158
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df414827d1e37cd0800000000000000
+      internalID: -2561455448834093101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_23
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 158
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0eedf6da176bbe0800000000000000
+      internalID: -1461856039314988827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_24
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 215
+        width: 88
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e98b1565af10e240800000000000000
+      internalID: 4818886396512799202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_25
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 212
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9762afbbdaef8cf0800000000000000
+      internalID: -247721224948258918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_26
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 212
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be9d43066438c850800000000000000
+      internalID: 6397420883426516661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_27
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 209
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f1b3ff8729292b0800000000000000
+      internalID: -5579235939982827651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_28
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 209
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bf968fed412f5c0800000000000000
+      internalID: -4183258155990779067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_29
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 209
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179b9ba1fe205f750800000000000000
+      internalID: 6337975276562659697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_30
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 209
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d93c1e84635c2f0800000000000000
+      internalID: -953296059465753281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_31
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 209
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36a85467f0e6f570800000000000000
+      internalID: 8500228699853465147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_32
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 161
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ae1f484fe35fd50800000000000000
+      internalID: 6770386834744797733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_33
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 168
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5110a2b20c51ebb90800000000000000
+      internalID: -7224312837153619691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_34
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 209
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76be5c69ad59de50800000000000000
+      internalID: 6834596891760440959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_35
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 209
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51c7b74f6e4f1700800000000000000
+      internalID: 513215122395087195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_36
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 192
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c272313e6dc15d60800000000000000
+      internalID: 7877303096403194564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_37
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 192
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687e5c188eb8fe920800000000000000
+      internalID: 3021787705714796422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4625dd4d9b504d1f0800000000000000
+      internalID: -1021184919807896988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_39
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 192
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183a266dace9bec30800000000000000
+      internalID: 4389776855820051329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_40
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 192
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17bbf0535c50e7300800000000000000
+      internalID: 251644973736246129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_41
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 192
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7460c162d9801c140800000000000000
+      internalID: 4738077754012730951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_42
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 84
+        width: 19
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf44a618f14c65d0800000000000000
+      internalID: -3068004712358588497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_43
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 84
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f9991f2a598b5a0800000000000000
+      internalID: -6505285134666063971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_44
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 85
+        width: 19
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa670f92405dc0d10800000000000000
+      internalID: 2093282140680648367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_45
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 84
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bae0a64fbc0ce9c0800000000000000
+      internalID: -3896725561919083848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_46
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 109
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a32fe82ec2e9d70800000000000000
+      internalID: 9051721652633745923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_47
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 109
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fdc3fd3d69b0ff0800000000000000
+      internalID: -68795532566536325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_48
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 104
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55f8356df1c08a80800000000000000
+      internalID: -8466554005387414179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_49
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 104
+        width: 56
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e37b9d0f67075840800000000000000
+      internalID: 5212643267255694306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_50
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 104
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865d35e9e489aa8e0800000000000000
+      internalID: -1681364047438293656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_51
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 104
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c435089275f422d80800000000000000
+      internalID: -8276965929376525492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_52
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 104
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3671d3ef288b3ae0800000000000000
+      internalID: -1568510305941490116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_53
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 104
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b976e57c512c340800000000000000
+      internalID: 4882488892049562484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_54
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 104
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063a31cbd5a8ec4a0800000000000000
+      internalID: -6571162671094979744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_55
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 8
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c6336a619b5d030800000000000000
+      internalID: 3518922190788717669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_56
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 8
+        width: 91
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779ea78928ce8b240800000000000000
+      internalID: 4807852647866100087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_57
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 8
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d99f4d4f1c632c0800000000000000
+      internalID: -4452157924319847140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_58
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 42
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064aeab376d0b9400800000000000000
+      internalID: 331873734575957088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_59
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 34
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd150d37b73f99e0800000000000000
+      internalID: -1612508881433059895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_60
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 45
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067f10d888ccb4840800000000000000
+      internalID: 5209482280837445472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_61
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 280
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b82c40e17e517760800000000000000
+      internalID: 7453842701462284470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jango_sprite_62
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 282
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dfae11259def7b0800000000000000
+      internalID: -5188470774173074158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
