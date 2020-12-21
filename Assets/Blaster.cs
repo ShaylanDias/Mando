@@ -5,7 +5,8 @@ using UnityEngine;
 public class Blaster : MonoBehaviour
 {
 
-    public Transform FirePoint;
+    public Transform firePoint;
+    public GameObject bulletPrefab;
 
     // Update is called once per frame
     void Update()
@@ -18,6 +19,6 @@ public class Blaster : MonoBehaviour
 
     void Shoot ()
     {
-
+        Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
     }
 }
