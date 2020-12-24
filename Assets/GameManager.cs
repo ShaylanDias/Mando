@@ -21,4 +21,9 @@ public class GameManager : MonoBehaviour
         score += amount;
         scoreText.text = "" + score;
     }
+
+    public void resetScore() {
+        score = 0;
+        scoreText.text = "0";
+    }
 }

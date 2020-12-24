@@ -9,6 +9,7 @@ public class PlayerMovement : MonoBehaviour
 	public float runSpeed = 40f;
 	public Animator animator;
 	public GameObject deathEffect;
+	public GameManager gm;
 	
 	HealthBar healthBar;
 
@@ -86,7 +87,6 @@ public class PlayerMovement : MonoBehaviour
 					healthBar.SetHealth(0);
 					Die();
 			} else {
-					Debug.Log(((float)health)/maxHealth);
 					healthBar.SetHealth(((float)health)/maxHealth);
 			}
 	}
@@ -98,6 +98,6 @@ public class PlayerMovement : MonoBehaviour
 			healthBar.SetHealth(1);
 			health = maxHealth;
 			gameObject.transform.position = new Vector3(0, 0, 0);
-			// Set score to zero!
+			gm.resetScore();
 	}
 }
