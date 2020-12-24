@@ -34,7 +34,6 @@ public class BasicEnemyBullet : MonoBehaviour
         } else if (col.gameObject.name.Equals("BasicEnemy(Clone)") || col.gameObject.name.Equals("Laser(Clone)")) {
             return;
         }
-        Debug.Log(col.gameObject.name);
         Destroy(gameObject);
     }
 }

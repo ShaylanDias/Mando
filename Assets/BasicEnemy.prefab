@@ -123,6 +123,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 100
   deathEffect: {fileID: 2052974377793757397, guid: 46b568a45f8574e4ab9e52ee24745178, type: 3}
+  scoreText: {fileID: 2411298185601227865, guid: be7e55f4a3f98496a89aa19a1c5b0468, type: 3}
   firePoint: {fileID: 5186930092026759962}
   animator: {fileID: 5186930090488702831}
   bullet: {fileID: 6656806408267488631, guid: 6ba8c51c8e95342b3a71351d9db3b993, type: 3}

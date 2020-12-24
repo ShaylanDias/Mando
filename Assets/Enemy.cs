@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -13,6 +14,8 @@ public class Enemy : MonoBehaviour
 
     public Animator animator;
 
+    GameManager manager;
+
     [SerializeField]
     GameObject bullet;
 
@@ -27,6 +30,7 @@ public class Enemy : MonoBehaviour
 
     void Start() {
         player = GameObject.FindObjectOfType<PlayerMovement>();
+        manager = GameObject.FindObjectOfType<GameManager>();
         nextFire = Time.time;
     }
 
@@ -67,6 +71,7 @@ public class Enemy : MonoBehaviour
 
     void Die()
     {
+        manager.incScore(100);
         Instantiate(deathEffect, transform.position, Quaternion.identity);
         Destroy(gameObject);
     }

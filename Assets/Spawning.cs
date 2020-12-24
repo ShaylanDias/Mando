@@ -30,7 +30,6 @@ public class Spawning : MonoBehaviour
         }
 
         if (Time.time > nextSpawnTime && units.Count < numToSpawn) {
-            Debug.Log("SPAWNED");
             units.Add(Instantiate(unitToSpawn, gameObject.transform.position - new Vector3(Random.Range(-radius, radius), Random.Range(-radius, radius), 0f), Quaternion.identity));
             nextSpawnTime = Time.time + spawnTime;
         }

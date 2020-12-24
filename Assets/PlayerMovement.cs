@@ -9,14 +9,22 @@ public class PlayerMovement : MonoBehaviour
 	public float runSpeed = 40f;
 	public Animator animator;
 	public GameObject deathEffect;
+	
+	HealthBar healthBar;
 
-	public int health = 200;
+	public int maxHealth = 200;
+	int health;
 
 	float horizontalMove = 0f;
 	bool jump = false;
 	bool fly = false;
 	int flyCount = 0;
 	bool crouch = false;
+
+	void Start() {
+		healthBar = GameObject.FindGameObjectWithTag("HealthBar").GetComponent<HealthBar>();
+		health = maxHealth;
+	}
 
 	void Update()
 	{
@@ -74,17 +82,22 @@ public class PlayerMovement : MonoBehaviour
 	public void TakeDamage(int damage)
 	{
 			health -= damage;
-
 			if (health <= 0) {
+					healthBar.SetHealth(0);
 					Die();
+			} else {
+					Debug.Log(((float)health)/maxHealth);
+					healthBar.SetHealth(((float)health)/maxHealth);
 			}
-
-			Debug.Log(health);
 	}
 
 	void Die()
 	{
 			Instantiate(deathEffect, transform.position, Quaternion.identity);
-			Destroy(gameObject);
+			// Destroy(gameObject);
+			healthBar.SetHealth(1);
+			health = maxHealth;
+			gameObject.transform.position = new Vector3(0, 0, 0);
+			// Set score to zero!
 	}
 }
